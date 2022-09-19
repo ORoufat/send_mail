@@ -1,5 +1,5 @@
-# send_mail
-You can send email using python
+# Automate Sending Emails with Python
+
 
 If you get smtplib.SMTPServerDisconnected Error, login to your gmail, go to account settings, security tab,
 Scroll down to Signing in to Google section, turn off the 2-Step verification and use your phone to sign in to OFF.
